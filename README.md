@@ -1,7 +1,8 @@
 
 # Adivinhe o Número
 
-Jogo de adivinhação feito com HTML, CSS e Javascript puro
+Jogo de adivinhação feito com HTML, CSS e Javascript puro. 
+O intuito do projeto é o fixar o aprendizado do javascript, utilizando funções e manipulando a DOM.
 
 ## Live
 
